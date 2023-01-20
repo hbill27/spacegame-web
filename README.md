@@ -1,3 +1,4 @@
+[![Build Status](https://hbill27.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/hbill27.spacegame-web?branchName=main)](https://hbill27.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
